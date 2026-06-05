@@ -25,3 +25,6 @@ Caso o usuário digite um preço negativo.
 
 3. Exibição e Busca
 Após o cadastro, o script exibe um resumo com o total gasto e os extremos de preço. Em seguida, entra no Sistema de Busca, onde o usuário pode digitar o nome de um produto para saber seu preço instantaneamente (usando o operador in para verificar a existência da chave no dicionário). O loop de busca é encerrado ao digitar "sair".
+
+Link do codígo no google colab:
+https://colab.research.google.com/drive/1JjF7rlTGp41dvkReGI0M5ZJ7tKXvYRsq?usp=sharing
